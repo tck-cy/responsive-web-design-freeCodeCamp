@@ -10,3 +10,4 @@ These projects are made for the freeCodeCamp Responsive Web Design Certification
 * Personal Portfolio: [Page](https://codepen.io/sfoteini/full/rNexONj) | [Requirements](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 </br>
 Made with :heartpulse:
+1.1.1
